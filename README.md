@@ -8,7 +8,7 @@
 - Checks special characters
 - Gives suggestions to improve password strength
 
-~ Technologies Used
+~ Tools Used
 - Python
 
 ~ Author
